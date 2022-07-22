@@ -4,3 +4,4 @@
 3.	Language: PHP – OOP.
 4.	Database: MySQL
 
+![Output](https://github.com/Ehteshamali-889/PHP-OOP-CRUD/blob/main/Screenshot%20(1573).png)
